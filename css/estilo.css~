@@ -1,0 +1,14 @@
+a{
+	display: block;  				/* cambia la manera de mostrar los enlaces. Ocuparán todo el ancho de su padre  */
+	width: 60%;						/* cambia el ancho de los enlaces al 60% del ancho de su padre */
+	padding: 20px 10%;			/* añade relleno (margen interior) a los enlaces. Arriba y abajo 20px y dcha-izda 10% del tamaño del padre */
+	background-color: beige;	/* cambia el color de fondo del enlace a beige */
+	border: 2px solid black;	/* añade un borde al enlace de 2 píxeles, color negro y contínuo */
+	border-radius: 5px;			/* redondea el borde de los enlaces */
+	text-align: center;			/* centra el texto dentro del elemento enlace */
+	margin: 30px auto;			/* añade un margen superior e inferior de 30px y automático para izquierda derecha (esto centra el elemento dentro de su padre) */
+	text-decoration: none;		/* elimina el subrayado por defecto del enlace */
+	color: black;					/* cambia el color de la fuente a negro (por defecto los enlaces se ven en azul) */
+	font-family: Helvetica;		/* cambia el tipo de letra */
+	font-size: xx-large;			/* cambia el tamaño a un tamaño más grande */
+}
